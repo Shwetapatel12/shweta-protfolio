@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.6bae1d3d.css",
-    "main.js": "/my-portfolio/static/js/main.28f184a0.js",
-    "static/media/my.jpg": "/my-portfolio/static/media/my.dcc23dab49b175cea254.jpg",
-    "index.html": "/my-portfolio/index.html",
-    "main.6bae1d3d.css.map": "/my-portfolio/static/css/main.6bae1d3d.css.map",
-    "main.28f184a0.js.map": "/my-portfolio/static/js/main.28f184a0.js.map"
+    "main.css": "/shweta-portfolio/static/css/main.6bae1d3d.css",
+    "main.js": "/shweta-portfolio/static/js/main.e7923600.js",
+    "static/media/my.jpg": "/shweta-portfolio/static/media/my.dcc23dab49b175cea254.jpg",
+    "index.html": "/shweta-portfolio/index.html",
+    "main.6bae1d3d.css.map": "/shweta-portfolio/static/css/main.6bae1d3d.css.map",
+    "main.e7923600.js.map": "/shweta-portfolio/static/js/main.e7923600.js.map"
   },
   "entrypoints": [
     "static/css/main.6bae1d3d.css",
-    "static/js/main.28f184a0.js"
+    "static/js/main.e7923600.js"
   ]
 }
