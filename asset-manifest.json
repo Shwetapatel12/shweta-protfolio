@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shweta-protfolio/static/css/main.6bae1d3d.css",
-    "main.js": "/shweta-protfolio/static/js/main.db672648.js",
+    "main.css": "/shweta-protfolio/static/css/main.fe48b3d8.css",
+    "main.js": "/shweta-protfolio/static/js/main.1a76e5c4.js",
     "static/media/my.jpg": "/shweta-protfolio/static/media/my.dcc23dab49b175cea254.jpg",
     "index.html": "/shweta-protfolio/index.html",
-    "main.6bae1d3d.css.map": "/shweta-protfolio/static/css/main.6bae1d3d.css.map",
-    "main.db672648.js.map": "/shweta-protfolio/static/js/main.db672648.js.map"
+    "main.fe48b3d8.css.map": "/shweta-protfolio/static/css/main.fe48b3d8.css.map",
+    "main.1a76e5c4.js.map": "/shweta-protfolio/static/js/main.1a76e5c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bae1d3d.css",
-    "static/js/main.db672648.js"
+    "static/css/main.fe48b3d8.css",
+    "static/js/main.1a76e5c4.js"
   ]
 }
