@@ -1,4 +1,4 @@
-// import profile from "../assests/my.jpg"; // Ensure path is correct
+// import profile from "../assets/my.jpg"; // Ensure path is correct
 
 // const Hero = () => {
 //   return (
