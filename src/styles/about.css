@@ -1,0 +1,72 @@
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background: #f4f4f4;
+}
+
+/* About Card Styling */
+.about-card {
+    width: 900px;
+    background: white;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+.about-card:hover {
+    transform: scale(1.02);
+}
+
+/* Title Styling */
+.about-card h2 {
+    color: #79117ec6;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Subheadings */
+.about-card h3 {
+    color: #79117ec6;
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Paragraph Text */
+.about-card p {
+    font-size: 1.1rem;
+    color: #333;
+    line-height: 1.7;
+    padding: 10px 20px;
+    text-align: justify;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .about {
+        padding: 30px;
+    }
+
+    .about-card {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .about-card h2 {
+        font-size: 1.8rem;
+    }
+
+    .about-card h3 {
+        font-size: 1.3rem;
+    }
+
+    .about-card p {
+        font-size: 1rem;
+        padding: 0 10px;
+    }
+}
